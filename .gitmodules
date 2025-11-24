@@ -3,5 +3,5 @@
 	url = https://github.com/Rounak77382/uasset-mesh-patch-rivals
 [submodule "retoc-rivals"]
 	path = retoc-rivals
-	url = https://github.com/Rounak77382/retoc-rivals
+	url = https://github.com/Rounak77382/retoc-rivals.git
 	branch = master
